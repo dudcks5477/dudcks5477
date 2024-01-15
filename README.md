@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome%to&Chan's&GitHub&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&text=Chan&fontSize=30&textBg=true&fontAlign=30&desc=Welcome%20to%20my%20Github&descAlignY=50)
