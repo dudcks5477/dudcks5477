@@ -1,10 +1,11 @@
-# Welcome to Young Chan(Chan)'s GitHub
+## Welcome to Young Chan(Chan)'s GitHub
 ### Product Manager / Designer
-- Something write
-
+- Like to Plan and Realize it.
 ### Interest
-- Interest1
-- Interest2
+- Product Manager
+- React-Native
+- Computer Science Education
+- Startup
 
 <div align=center>
   
