@@ -3,6 +3,7 @@
 - Like to Plan and Realize it.
 ### Interest
 - Product Manager
+- Frontend
 - React-Native
 - Computer Science Education
 - Startup
